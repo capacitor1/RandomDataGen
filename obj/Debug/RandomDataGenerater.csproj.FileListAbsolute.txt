@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\RandomDataGenerater\bin\Debug\RandomDataGenerater.exe.config
+C:\Users\Administrator\Desktop\RandomDataGenerater\bin\Debug\RandomDataGenerater.exe
+C:\Users\Administrator\Desktop\RandomDataGenerater\bin\Debug\RandomDataGenerater.pdb
+C:\Users\Administrator\Desktop\RandomDataGenerater\obj\Debug\RandomDataGenerater.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\RandomDataGenerater\obj\Debug\RandomDataGenerater.Form1.resources
+C:\Users\Administrator\Desktop\RandomDataGenerater\obj\Debug\RandomDataGenerater.Properties.Resources.resources
+C:\Users\Administrator\Desktop\RandomDataGenerater\obj\Debug\RandomDataGenerater.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\RandomDataGenerater\obj\Debug\RandomDataGenerater.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\RandomDataGenerater\obj\Debug\RandomDataGenerater.exe
+C:\Users\Administrator\Desktop\RandomDataGenerater\obj\Debug\RandomDataGenerater.pdb
